@@ -1,0 +1,406 @@
+/*Body*/
+.bkg-gray{
+	background-color: gray;
+	font-family: sans-serif;
+}
+/*Imagen de fondo del header (laptop)*/
+.hero{
+	background-image: url(../img/background/hero.jpg);
+    background-size: cover;
+    height: 682px;
+    -webkit-filter: brightness(30%);
+    width: 100%;
+}
+.cont-header{
+	margin-top: -50px;
+}
+.cont-lorem{
+	margin-top: 192px;
+}
+.call-to{
+	background: white;
+    opacity: 0.1;
+    width: 188px;
+    height: 51px;
+    margin-left: 503px;
+    margin-top: 49px;
+}
+.learn{
+	margin-left: 150px;
+    margin-top: -38px;
+}
+/*Div con background blanco que contiene a todas las secciones*/
+.bg-white{
+	background-color: white;
+}
+.container-blanco{
+    width: 99%;
+    margin-top: 3%;
+    margin-left: 6px;
+}
+.inline{
+	display: inline-block;
+}
+/*Div del menu y logo PRIMES*/
+.menu{
+
+}
+a{
+	color: white;
+	text-decoration: none;
+}
+/*Botones del header*/
+.btn{
+    width: 152px;
+    height: 61px;
+    padding-top: 47px;
+}
+.btn-black{
+	background-color: rgb(63, 62, 62);
+}
+.btn-white{
+	background-color: white;
+	opacity: 0.4;
+}
+
+.z-index{
+	z-index: 1;
+}
+.absolute{
+	position: absolute;
+}
+.relative{
+	position: relative;
+}
+.pd-15 {
+	padding: 5%;
+}
+/*div: More features*/
+.bg-gray1{
+	background-color: rgb(244, 244, 244);
+}
+/*Imagen de la laptop de More features*/
+.laptop{
+	width: 1000px;
+    margin-left: 138px;
+    padding-bottom: 50px;
+}
+.center{
+	text-align: center;
+}
+/*Seccion de botones en la seccion de protfolio*/
+.btns-nav-portfolio{
+    margin-left: 394px;
+}
+.active {
+	color: #0dc0c0;
+}
+
+.btn-portf{
+	width: 102px;
+    height: 35px;
+    padding-top: 7px;
+}
+.font-size{
+	font-size: 20px;
+}
+.load-more{
+	width: 106px;
+    background-color: #403D3D;
+    height: 39px;
+    margin-left: 600px;
+    padding-top: 12px;
+    margin-top: 25px;
+}
+.font-weight{
+	font-weight: bold;
+	}
+/*Boton show all*/
+.show-all{
+	background-color: #41A1A2;
+}
+.text-white{
+	color: white;
+}
+/*Imagenes en la seccion de portflio*/
+.img-grid{
+	margin-left: 22px;
+    margin-top: 20px;
+}
+.margin-bottom{
+	margin-bottom: 25px;
+}
+.margin-top{
+	margin-top: 25px;
+}
+.padding-top{
+	padding-top: 30px;
+}
+/*Imagen de fondo de Call To Action*/
+.city{
+	background-image: url(../img/background/city.jpg);
+    background-size: cover;
+    height: 440px;
+    width: 100%;
+    -webkit-filter: brightness(30%);
+    position: absolute;
+}
+
+.load-more{
+
+}
+.z-index{
+	z-index: 1;
+}
+li{
+	padding-left: 57px;
+}
+.pt-15{
+	padding-top: 5%;
+}
+.primes{
+	margin-left: -49px;
+    font-family: sans-serif;
+    font-size: x-large;
+    margin-top: -20px;
+}
+/*Icono estrella*/
+.icon_star-half_alt {
+	content: "\e032";
+	margin-left: -70px;
+    color: white;
+}
+.logo{
+
+}
+h2{
+	margin-top: 149px;
+    margin-bottom: 30px;
+    font-size: -webkit-xxx-large;
+}
+strong { 
+	font-weight: 600; 
+}
+.size{
+	font-size: -webkit-xxx-large;
+}
+.ion-erlenmeyer-flask{
+	content:"\f3c5";
+}
+.border-gray{
+	border:2px solid rgba(128, 128, 128, 0.15);
+}
+.margin-left{
+	margin-left: 143px;
+}
+.icon-style{
+	margin-right: 13px;
+}
+/*Clases de Adriana*/
+/* choose */
+.title{
+    margin-top: 83px;
+}
+.titulo{
+	font-size: 32px;
+}
+/* cuadros blasncos */
+.blanco{
+	width: 300px;
+	height: auto;
+	background-color: #ffffff;
+	border: 1px solid black;
+}
+/* cuadros botenoes */
+.cua_boton{
+	width: 280px;
+	height: 60px;
+	background-color: black;
+	margin-left: 10px;
+	margin-top: 10px;
+}
+.boton_active{
+	width: 280px;
+	height: 60px;
+	
+	margin-left: 10px;
+	margin-top: 10px;
+}
+/* id para que cambie el cursor*/
+#boton_purchase:hover {
+	cursor: pointer;
+}
+/* cuadros abajo de los botones  y tamaños de tipo*/
+.cua_boton2{
+	width: 280px;
+	height: 80px;
+    margin-left: 24px;
+    background-color: #CCD1D1;
+}
+.cantidad{
+	font-size: 30px;
+}
+
+.text-white{
+	color: white;
+}
+.text-center{
+	text-align: center;
+}
+
+.pt-5{
+	padding-top: 5%;
+}
+/* lista de abajo de precio*/
+ol{
+	list-style: none;   
+}
+.pt--10{
+	padding-top: 10%;
+}
+.margin{
+	margin-bottom: 5%;
+}
+hr{
+	width: 200px;
+	margin-left: 60px;
+
+}
+.text-gray{
+	color: #888;
+}
+/* boton chico que dice purcharse*/
+.boton_chico{
+	width: 100px;
+	height: 40px;
+	background-color:black;
+	margin-left: 110px;
+}
+.pb-10{
+	padding-bottom: 10%;
+}
+/* fondo de section*/
+.bg-gray{
+	background-color: rgb(244, 244, 244);
+	height: auto;
+}
+/* ffoto en circulo*/
+.circulo{
+	width: 110px;
+	height: 110px;
+	border-radius: 100px;
+}
+.f-600 {
+	font-weight: 600;
+}
+.margin_top{
+	margin-top:5%;
+}
+.lh{
+	line-height: 1.5;
+}
+/* contacto*/
+#cuaderno{
+	background-image: url("../img/background/contactus.jpg");
+	height:600px;
+	width: 100%;
+	background-size: cover;
+	margin-top: 50px;
+	-webkit-filter:brightness(50%);
+
+}
+.cont-form{
+	margin-top: -555px;	
+}
+#wrapper{
+	height: 600px;
+	background-color: black;
+	opacity: 0.6;
+	color: #000;
+}
+.azul {
+	background-color: #0dc0c0;
+}
+form{
+	width: 450px;
+	height: auto;
+	background: rgba(0,0,0,0.7);
+	padding: 20px 20px;
+	box-sizing:border-box;
+	border-radius: 8px;
+}
+
+input, textarea{
+	width: 100%;
+	margin-bottom:20px;
+    padding: 7px;
+    box-sizing:border-box;
+    font-size: 17px;
+    border: none;
+}
+textarea{
+    min-width: 100px;
+    max-height: 200px;
+    max-width: 400px;
+}
+#boton_enviar{
+	background: #0dc0c0;
+	color: #ffffff;
+	padding: 20px;
+}
+#boton_enviar:hover {
+	cursor: pointer;
+}
+.pt-2{
+	padding-top: 2%;
+}
+.tex_tamano{
+	font-size:20px;
+}
+.pb-5{
+	padding-bottom: 5%;
+}
+.pl-5{
+	padding-left: 5%;
+}
+.pt-5{
+	padding-top: 5%;
+}
+.pt-10{
+	padding-top: 10%;
+}
+.text-left{
+	text-align: left;
+}
+.icon_phone:before {
+	content: "\e090";
+	color: #ffffff;
+}
+
+.blanco{
+	color: white;
+}
+.social_facebook:before {
+	content: "\e093";
+
+}
+.social_twitter:before {
+	content: "\e094";
+}
+.social_pinterest:before {
+	content: "\e095";
+}
+.social_googleplus:before {
+	content: "\e096";
+}
+.social_linkedin:before {
+	content: "\e09d";
+}
+
+.barra{
+	background-color: black;
+	height: auto;
+}
+.pb-2{
+	padding-bottom: 2%;
+}
